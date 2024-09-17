@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+
+.content {
+    max-width: 1000px;
+    margin: auto;
+    border: solid 10px;
+    border-color: white;
+}
+
+
+h1{
+    text-align: center;
+    border: solid 5px;
+    border-color: red;
+    color: white;
+}
+
+
+p{
+    text-align: center;
+    color: white;
+}
+
+
+div.container {
+    text-align: center;
+}
+
+
+ol.myOl {
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
+
+
+img{
+    border: solid 5px;
+    border-color: red;
+}
+
+
+#test2{
+    width: 250px;
+}
+
+
+#test3{
+    width: 250px;
+}
+
+#ball{
+    width: 250px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
